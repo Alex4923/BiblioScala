@@ -1,7 +1,7 @@
 # Bibliothèque Scala :
 Cette application permet la gestion de livres EPUB, de consulter, et de gérer une collection de livres numériques. L'application est conçue pour offrir une interface conviviale pour l'utilisateur, facilitant la gestion de grandes bibliothèques de livres au format EPUB.
 
-Version Minimum de Java :
+Version Minimum de Java :                                            
 Cette application nécessite Java 6.0 ou une version ultérieure pour fonctionner correctement. 
 
 Fonctionnalités :
