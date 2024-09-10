@@ -7,8 +7,8 @@ Version Minimum de Java :
 Cette application nécessite Java 6.0 ou une version ultérieure pour fonctionner correctement. 
 
 Fonctionnalités :
-- Importation et gestion de livres au format EPUB.
-- Organisation des livres par titre, auteur, ou année.
+- Importation et gestion de livres au format EPUB et PDF.
+- Organisation des livres par titre, auteur.
 - Interface utilisateur intuitive, disponible en français et anglais uniquement.
 - Recherche avancée pour trouver des livres rapidement.
 
@@ -32,8 +32,8 @@ This application requires Java 6.0 or a later version to function properly.
 
 Features :
 
-- Importing and managing books in EPUB format.
-- Organizing books by title, author, or year.
+- Importing and managing books in EPUB and PDF format.
+- Organizing books by title, author.
 - Intuitive user interface, available in French and English only.
 - Advanced search to quickly find books.
 
