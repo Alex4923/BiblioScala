@@ -24,20 +24,23 @@ Une fois l'application lancée, vous pouvez commencer à ajouter vos livres EPUB
 
 ##ENGLISH
 
-# Scala Library:
+# Scala Library :
 This application allows you to manage EPUB books, browse, and handle a collection of digital books. The application is designed to offer a user-friendly interface, making it easy to manage large libraries of EPUB books.
 
-Minimum Java Version:
+Minimum Java Version :                                                                                             
 This application requires Java 6.0 or a later version to function properly.
 
-Features:
+Features :
 
-Importing and managing books in EPUB format.
-Organizing books by title, author, or year.
-Intuitive user interface, available in French and English only.
-Advanced search to quickly find books.
-Installation:
+- Importing and managing books in EPUB format.
+- Organizing books by title, author, or year.
+- Intuitive user interface, available in French and English only.
+- Advanced search to quickly find books.
 
-Ensure that you have Java 6.0 or a more recent version installed on your system.
-Download the application's JAR file. Run the JAR file using the following command: java -jar BibliothequeScalaAlexvo.jar Or by double-clicking on the .jar file.
-Usage: Once the application is launched, you can start adding your EPUB books to the library. Use the search and filtering features to easily navigate through your collection. The interface is designed to be easy to use.
+Installation :
+
+- Ensure that you have Java 6.0 or a more recent version installed on your system.
+- Download the application's JAR file. Run the JAR file using the following command: java -jar BibliothequeScalaAlexvo.jar Or by double-clicking on the .jar file.
+
+Usage :                                 
+Once the application is launched, you can start adding your EPUB books to the library. Use the search and filtering features to easily navigate through your collection. The interface is designed to be easy to use.
